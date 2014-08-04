@@ -1,0 +1,98 @@
+The driver is FirefoxDriver: firefox on MAC (91288adc-3f44-c047-b848-8608d93faf2e)
+*********** GUEST USER NAVIGATION TEST CASES STARTED  ************
+Verifying Verified country is PASSED
+Verifying Language is PASSED
+Verifying counsumer link is PASSED
+Verifying business link is PASSED
+Verifying Partner Link is PASSED
+Verifying About us Link is PASSED
+Verifying Send money link is PASSED
+Verifying Receive money link is PASSED
+Verifying Pay bills link is PASSED
+Verifying Prepaid card link is PASSED
+Verifying Site Logo is PASSED
+Verifying User Registration is PASSED
+Verifying User Login is PASSED
+Verifying Ask querry box is PASSED
+Verifying  Ask button is PASSED
+Verifying Promotion slider is PASSED
+Verifying send money online widget is PASSED
+Verifying  zip code is PASSED
+Verifying Country list is PASSED
+Verifying send amount is PASSED
+Verifying Get started button is PASSED
+Verifying footer menu title is PASSED
+Verifying footer menu list is PASSED
+Verifying footer content menu is PASSED
+Verifying email alerts signup is PASSED
+*********** GUEST USER NAVIGATION TEST CASES COMPLETED ************
+<============= Closing Browser Window =============>
+The driver is FirefoxDriver: firefox on MAC (25d2191c-9c8f-fc48-a4bc-fcfe225ea9f2)
+*********** USER REGISTRATION TEST CASES STARTED  ************
+Clicking registration button is PASSED
+Verifying register email field is PASSED
+Verifying register password field is PASSED
+Verifying re enter register password field is PASSED
+Verifying register firstname field is PASSED
+Verifying register lastname field is PASSED
+Verifying addressline 1 field is PASSED
+Verifying city field is PASSED
+Verifying zip code field is PASSED
+Verifying primary phone text field is PASSED
+Verifying q1 a1 text field is PASSED
+Verifying q2 a2 text field is PASSED
+Verifying q3 a3 text field is PASSED
+The value b182924@test.com is ENTERED SUCCESSFULLY
+The value Welcome123 is ENTERED SUCCESSFULLY
+The value Welcome123 is ENTERED SUCCESSFULLY
+The value 2018202198 is ENTERED SUCCESSFULLY
+The value TEST is ENTERED SUCCESSFULLY
+The value WULABWN is ENTERED SUCCESSFULLY
+The value 12 WESTHARRISONSTREET is ENTERED SUCCESSFULLY
+The value CHICAGO is ENTERED SUCCESSFULLY
+Clicking state selection drop-down is PASSED
+Clicking state from the drop-down is PASSED
+The value 10001 is ENTERED SUCCESSFULLY
+Clicking month drop-down is PASSED
+Clicking month from drop-down is PASSED
+Clicking date drop-down is PASSED
+Clicking date from drop-down is PASSED
+The value 1990 is ENTERED SUCCESSFULLY
+Clicking Question1 is PASSED
+Clicking question from drop-down is PASSED
+The value testing1 is ENTERED SUCCESSFULLY
+Clicking Question2 is PASSED
+Clicking question from drop-down is PASSED
+The value testing2 is ENTERED SUCCESSFULLY
+Clicking Question3 is PASSED
+Clicking question from drop-down is PASSED
+The value testing3 is ENTERED SUCCESSFULLY
+Clicking terms & conditions is PASSED
+Clicking continue button is PASSED
+Verifying register email title is FAILED
+*********** USER REGISTRATION TEST CASES COMPLETED ************
+<============= Closing Browser Window =============>
+The driver is FirefoxDriver: firefox on MAC (6ab953e3-6e17-cb44-aaf0-a9599af3826e)
+*********** PAY BILLS NAVIGATION TEST CASES STARTED  ************
+Verifying Pay bills link is PASSED
+Hovering Pay bills link is PASSED
+Hovering get started button is PASSED
+Verifying get started button is PASSED
+Clicking get started button is PASSED
+Verifying Biller name is PASSED
+Verifying Amount is PASSED
+Verifying Get started to Pay button is PASSED
+The value CHASE AUTO FINANCE is ENTERED SUCCESSFULLY
+The value 100 is ENTERED SUCCESSFULLY
+Clicking Get started to Pay button is PASSED
+Verifying Send online container is PASSED
+Verifying Send Money online is PASSED
+Clicking Send Money online is PASSED
+Verifying register now Link is PASSED
+Clicking register now Link is PASSED
+*********** PAY BILLS NAVIGATION TEST CASES COMPLETED ************
+<============= Closing Browser Window =============>
+The driver is FirefoxDriver: firefox on MAC (a1d6ad2a-7b36-744e-914b-1ffb97d548c3)
+*********** OVERVIEW LOGIN TEST CASES STARTED  ************
+Verifying Login button is PASSED
+Clicking Login button is PASSED
